@@ -1,7 +1,7 @@
-
 <h1 align="center">
-    ❤️ <a href="#"> Trabalho final </a>
+	❤️ <a href="#"> Trabalho final </a>
 </h1>
+
 
 
 ### 💻 Sobre o projeto
@@ -38,5 +38,4 @@ o framework selenium possa atuar com eficiência.
 ---
 
 #### 🎲 Começando os scripts de testes (Automação)
-
 
