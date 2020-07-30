@@ -4,7 +4,7 @@
 </h1>
 
 
-## 💻 Sobre o projeto
+### 💻 Sobre o projeto
 
  O trabalho solicitado é uma forma de garantir que todo o conhecimento passado durante as aulas no decorrer do curso foi absorvido com sucesso.
 
@@ -13,7 +13,7 @@ O curso de Agile Tests é uma experiência única com muito conteúdo prático, 
 
 ---
 
-## 🚀 Como o trabalho foi estruturado
+### 🚀 Como o trabalho foi estruturado
 
 Este projeto foi divido em três partes:
 1. Planejamento 
@@ -35,4 +35,8 @@ Após ter instalado vamos para o próximo passo que é baixar as seguintes depen
 Além disto, não podemos esquecer que é preciso ter o [chromedriver](https://chromedriver.chromium.org/downloads) para que 
 o framework selenium possa atuar com eficiência.
 
+---
+
 #### 🎲 Começando os scripts de testes (Automação)
+
+
