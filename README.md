@@ -15,10 +15,9 @@ O curso de Agile Tests é uma experiência única com muito conteúdo prático e
 
 ### 🚀 Como o trabalho foi estruturado
 
-Este projeto foi divido em três partes:
-1. Planejamento 
-2. Testes manuais 
-3. Automação
+Este projeto foi divido em duas partes:
+1. Testes manuais 
+2. Automação
 
 ---
 
