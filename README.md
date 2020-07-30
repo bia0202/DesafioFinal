@@ -8,8 +8,8 @@
 
  O trabalho solicitado é uma forma de garantir que todo o conhecimento passado durante as aulas no decorrer do curso foi absorvido com sucesso.
 
-Projeto desenvolvido na reta final do curso **Agile Tests** oferecida pela [E2E - Treinamentos](https://www.e2etreinamentos.com.br/).
-O curso de Agile Tests é uma experiência única com muito conteúdo prático, desafios e várias oportunidades batendo na porta.
+Projeto desenvolvido na reta final do curso **Agile Tests** oferecido pela [E2E - Treinamentos](https://www.e2etreinamentos.com.br/).
+O curso de Agile Tests é uma experiência única com muito conteúdo prático e desafios.
 
 ---
 
