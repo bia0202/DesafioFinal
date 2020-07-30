@@ -17,7 +17,10 @@ O curso de Agile Tests é uma experiência única com muito conteúdo prático e
 
 Este projeto foi divido em duas partes:
 1. Testes manuais 
+> Os testes à mão são essenciais para assegurar que os métodos estão funcionando e você está apto a automatizá-los
+
 2. Automação
+> A automatização de testes contribui para o recebimento de um feedback contínuo e rápido, além de garantir uma maior qualidade na entrega do software.
 
 ---
 
