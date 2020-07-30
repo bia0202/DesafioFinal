@@ -25,7 +25,9 @@ Este projeto foi divido em três partes:
 ### 💡 Pré-requisitos
 
 Antes de começar, precisamos instalar na máquina a seguinte ferramenta:
-[Eclipse](https://www.eclipse.org/downloads/).
+- [Eclipse: Para desenvolvimento do projeto](https://www.eclipse.org/downloads/).
+- [JDK 10: Necessário para executar o projeto Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk10-downloads-4416644.html)
+- [Maven 3.5.3: Necessário para realizar o build do projeto Java](http://mirror.nbtelecom.com.br/apache/maven/maven-3/3.5.3/binaries/apache-maven-3.5.3-bin.zip)
 
 Após ter instalado vamos para o próximo passo que é baixar as seguintes dependências no pom.xml:
 [Selenium](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java), [Junit](https://mvnrepository.com/artifact/junit/junit), 
